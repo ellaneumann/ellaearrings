@@ -133,7 +133,7 @@ ul {
 /* Colors */
 
 .tm-text-secondary { color: #669999; }
-.tm-bg-primary { background-color: #ca9acd; }
+.tm-bg-primary { background-color: #de9adb; }
 .tm-bg-gradient {
   background: linear-gradient(
     135deg,
@@ -159,7 +159,7 @@ ul {
   color: #98999a;
   width: 300px;
   height: 100px;
-  border: 1px solid #98999a;
+  border: 2px solid #98999a;
   display: flex;
   align-items: center;
   justify-content: center;
